@@ -44,8 +44,9 @@ header .catalanim{
 .menu{
   border-radius: 10px;
   margin-top: 15px;
-  width: 175px;
-  height: 335px;
+  min-width: 175px;
+  max-width: 200px;
+  height: 350px;
 }
 
 #lumanari{
