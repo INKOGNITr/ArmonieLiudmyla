@@ -1,0 +1,30 @@
+.nme{
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+
+header{
+  font-family: Montserrat;
+}
+header .hdtext{
+  font-family: "Playfair Display";
+}
+
+main .desc{
+  font-family: Montserrat;
+  font-size: 1em;
+}
+main .hed{
+  font-family: "Playfair Display";
+}
+main .hedist{
+  font-family: "Playfair Display";
+}
+main .istor{
+  font-family: Montserrat;
+  font-size: 1em;
+}
+
+footer{
+  font-family: "Playfair Display";
+}
